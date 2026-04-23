@@ -1,4 +1,4 @@
-# Submission Code Package (2026-04-19, updated 2026-04-22)
+# Submission Code Package 
 
 This folder is a curated code package prepared for manuscript submission.
 It is organized around the end-to-end workflow used in the paper:
